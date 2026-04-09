@@ -68,3 +68,5 @@ packages/bruno-filestore/dist
 packages/bruno-requests/dist
 packages/bruno-schema-types/dist
 packages/bruno-converters/dist
+temp_auto_push.bat
+temp_interactive_push.bat
